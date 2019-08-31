@@ -10,7 +10,7 @@ Install [nodejs](https://nodejs.org/en/)
   `cd` _directoryname_
 
 - Download repository to your project/working-directory
-- Start in your project/working--directory:
+- Start in your project/working-directory:
 
 ```
     npm install
