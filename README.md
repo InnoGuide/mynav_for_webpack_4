@@ -9,7 +9,7 @@ Install [nodejs](https://nodejs.org/en/)
 
   `cd` _directoryname_
 
-- Download repository to your project/working-directory
+- Download or git clone repository to your project/working-directory
 - Start in your project/working-directory:
 
 ```
